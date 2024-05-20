@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/Projects/cpp/hex/cmake-build-debug/_deps/nativefiledialog-subbuild/CMakeFiles/nativefiledialog-populate"
+		},
+		{
+			"file" : "D:/Projects/cpp/hex/cmake-build-debug/_deps/nativefiledialog-subbuild/CMakeFiles/nativefiledialog-populate.rule"
+		},
+		{
+			"file" : "D:/Projects/cpp/hex/cmake-build-debug/_deps/nativefiledialog-subbuild/CMakeFiles/nativefiledialog-populate-complete.rule"
+		},
+		{
+			"file" : "D:/Projects/cpp/hex/cmake-build-debug/_deps/nativefiledialog-subbuild/nativefiledialog-populate-prefix/src/nativefiledialog-populate-stamp/nativefiledialog-populate-build.rule"
+		},
+		{
+			"file" : "D:/Projects/cpp/hex/cmake-build-debug/_deps/nativefiledialog-subbuild/nativefiledialog-populate-prefix/src/nativefiledialog-populate-stamp/nativefiledialog-populate-configure.rule"
+		},
+		{
+			"file" : "D:/Projects/cpp/hex/cmake-build-debug/_deps/nativefiledialog-subbuild/nativefiledialog-populate-prefix/src/nativefiledialog-populate-stamp/nativefiledialog-populate-download.rule"
+		},
+		{
+			"file" : "D:/Projects/cpp/hex/cmake-build-debug/_deps/nativefiledialog-subbuild/nativefiledialog-populate-prefix/src/nativefiledialog-populate-stamp/nativefiledialog-populate-install.rule"
+		},
+		{
+			"file" : "D:/Projects/cpp/hex/cmake-build-debug/_deps/nativefiledialog-subbuild/nativefiledialog-populate-prefix/src/nativefiledialog-populate-stamp/nativefiledialog-populate-mkdir.rule"
+		},
+		{
+			"file" : "D:/Projects/cpp/hex/cmake-build-debug/_deps/nativefiledialog-subbuild/nativefiledialog-populate-prefix/src/nativefiledialog-populate-stamp/nativefiledialog-populate-patch.rule"
+		},
+		{
+			"file" : "D:/Projects/cpp/hex/cmake-build-debug/_deps/nativefiledialog-subbuild/nativefiledialog-populate-prefix/src/nativefiledialog-populate-stamp/nativefiledialog-populate-test.rule"
+		},
+		{
+			"file" : "D:/Projects/cpp/hex/cmake-build-debug/_deps/nativefiledialog-subbuild/nativefiledialog-populate-prefix/src/nativefiledialog-populate-stamp/nativefiledialog-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"nativefiledialog-populate"
+		],
+		"name" : "nativefiledialog-populate"
+	}
+}
